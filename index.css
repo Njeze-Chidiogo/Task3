@@ -1,0 +1,12 @@
+.container{
+    background-color: aquamarine;
+    margin: 200px;
+    padding: 10px;
+    min-height: 300px;
+    min-width: 30px;
+}
+.header{
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+}
